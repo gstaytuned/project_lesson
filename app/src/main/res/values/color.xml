@@ -1,0 +1,8 @@
+<resources>
+
+    <color name="black">#80000000</color>
+
+    <color name="befoerclick">#00000000</color>
+
+    <color name="overlay">#80000000</color>
+</resources>
